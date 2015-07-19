@@ -1,11 +1,11 @@
 {
-  "name": "forkraft",
+  "name": "forkraft_delay",
   "version": "1.1.11",
   "description": "a helper library for cluster api",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kessler/forkraft.git"
+    "url": "https://github.com/hadassel/forkraft_delay.git"
   },
   "keywords": [
     "clusterize",
